@@ -98,3 +98,8 @@ function ToDoList() {
 
 export default ToDoList;
 ```
+
+# recoil
+
+useRecoilValue 은 atom이나 selector 값만 반환하는데
+useREcoilState 는 값과 더불어서 modifier 함수도 제공한다
